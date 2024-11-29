@@ -1,6 +1,6 @@
-# Ana Clara
+#Oi
 
-Oii esse é meu github com projetos relacionado aos meu estudos =)
+ esse é meu github com projetos relacionado aos meu estudos =)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-auGFq6yK6kzrKer-SkTuY8dYATxh8ZYSg&s" alt="Imagem de Ana Clara" style="width: 100%; height: auto;"/>
 
